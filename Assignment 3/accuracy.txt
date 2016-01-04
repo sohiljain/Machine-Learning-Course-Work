@@ -1,0 +1,157 @@
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe F:/ML-Algo/a3barebones/script_classify.py
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 49.9666666667
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 74.4333333333
+Running learner = Linear Regression
+Accuracy for Linear Regression: 76.0333333333
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 76.9
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 77.5333333333
+Running learner = Neural Network
+Accuracy for Neural Network: 77.9666666667
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 74.4333333333
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 49.9
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 75.1333333333
+Running learner = Linear Regression
+Accuracy for Linear Regression: 75.9666666667
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 76.9666666667
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 77.1
+Running learner = Neural Network
+Accuracy for Neural Network: 74.6666666667
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 75.1333333333
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 48.6333333333
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 73.8666666667
+Running learner = Linear Regression
+Accuracy for Linear Regression: 74.9666666667
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 75.9666666667
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 76.9333333333
+Running learner = Neural Network
+Accuracy for Neural Network: 76.9666666667
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 73.8666666667
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 51.6333333333
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 74.0
+Running learner = Linear Regression
+Accuracy for Linear Regression: 75.8666666667
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 77.2666666667
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 77.8333333333
+Running learner = Neural Network
+Accuracy for Neural Network: 77.8
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 74.0
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 50.1666666667
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 73.5666666667
+Running learner = Linear Regression
+Accuracy for Linear Regression: 75.8
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 76.1666666667
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 77.1
+Running learner = Neural Network
+Accuracy for Neural Network: 77.2666666667
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 73.5666666667
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 49.5333333333
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 75.0333333333
+Running learner = Linear Regression
+Accuracy for Linear Regression: 75.6333333333
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 77.1666666667
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 77.1666666667
+Running learner = Neural Network
+Accuracy for Neural Network: 77.8666666667
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 75.0333333333
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 49.4666666667
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 72.6666666667
+Running learner = Linear Regression
+Accuracy for Linear Regression: 74.1333333333
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 75.5333333333
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 75.6666666667
+Running learner = Neural Network
+Accuracy for Neural Network: 75.4666666667
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 72.6666666667
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 50.1
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 73.0333333333
+Running learner = Linear Regression
+Accuracy for Linear Regression: 74.5333333333
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 75.3666666667
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 75.7666666667
+Running learner = Neural Network
+Accuracy for Neural Network: 70.6333333333
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 73.0333333333
+
+
+Running on train=5000 and test=3000 samples
+Running learner = Random
+Accuracy for Random: 51.3333333333
+Running learner = Naive Bayes
+Accuracy for Naive Bayes: 73.2333333333
+Running learner = Linear Regression
+Accuracy for Linear Regression: 74.3333333333
+Running learner = LogisticNew Regression
+Accuracy for LogisticNew Regression: 75.1666666667
+Running learner = Logistic Regression
+Accuracy for Logistic Regression: 75.5333333333
+Running learner = Neural Network
+Accuracy for Neural Network: 76.3666666667
+Running learner = Naive Bayes Ones
+Accuracy for Naive Bayes Ones: 73.2333333333
+
+
+Process finished with exit code 0

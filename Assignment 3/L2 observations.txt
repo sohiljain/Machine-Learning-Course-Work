@@ -1,0 +1,215 @@
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe F:/ML-Algo/a3barebones2/script_classify.py
+Running on train=2000 and test=600 samples
+Running learner = Logistic Regressionlambda1 0.001 lambda2 0.001
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.001 lambda2 0.01
+Accuracy for Logistic Regression: 43.5
+Running learner = Logistic Regressionlambda1 0.001 lambda2 0.1
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.001 lambda2 1
+Accuracy for Logistic Regression: 56.3333333333
+Running learner = Logistic Regressionlambda1 0.001 lambda2 10
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.001 lambda2 100
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.001 lambda2 1000
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.01 lambda2 0.001
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.01 lambda2 0.01
+Accuracy for Logistic Regression: 50.8333333333
+Running learner = Logistic Regressionlambda1 0.01 lambda2 0.1
+Accuracy for Logistic Regression: 55.1666666667
+Running learner = Logistic Regressionlambda1 0.01 lambda2 1
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.01 lambda2 10
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.01 lambda2 100
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.01 lambda2 1000
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.1 lambda2 0.001
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.1 lambda2 0.01
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.1 lambda2 0.1
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.1 lambda2 1
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.1 lambda2 10
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.1 lambda2 100
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.1 lambda2 1000
+
+Process finished with exit code 0
+
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe F:/ML-Algo/a3barebones2/script_classify.py
+Running on train=2000 and test=600 samples
+Running learner = Logistic Regressionlambda1 0.5 lambda2 0.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.5 lambda2 1.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.5 lambda2 1.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.5 lambda2 2.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.5 lambda2 2.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.5 lambda2 3.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.5 lambda2 3.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 0.5 lambda2 4.0
+Accuracy for Logistic Regression: 52.3333333333
+Running learner = Logistic Regressionlambda1 0.5 lambda2 4.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 0.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 1.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 1.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 2.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 2.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 3.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 3.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.0 lambda2 4.0
+Accuracy for Logistic Regression: 53.6666666667
+Running learner = Logistic Regressionlambda1 1.0 lambda2 4.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.5 lambda2 0.5
+Accuracy for Logistic Regression: 53.3333333333
+Running learner = Logistic Regressionlambda1 1.5 lambda2 1.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.5 lambda2 1.5
+Accuracy for Logistic Regression: 45.0
+Running learner = Logistic Regressionlambda1 1.5 lambda2 2.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.5 lambda2 2.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.5 lambda2 3.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.5 lambda2 3.5
+Accuracy for Logistic Regression: 51.8333333333
+Running learner = Logistic Regressionlambda1 1.5 lambda2 4.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 1.5 lambda2 4.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.0 lambda2 0.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.0 lambda2 1.0
+Accuracy for Logistic Regression: 58.0
+Running learner = Logistic Regressionlambda1 2.0 lambda2 1.5
+Accuracy for Logistic Regression: 50.8333333333
+Running learner = Logistic Regressionlambda1 2.0 lambda2 2.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.0 lambda2 2.5
+Accuracy for Logistic Regression: 57.8333333333
+Running learner = Logistic Regressionlambda1 2.0 lambda2 3.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.0 lambda2 3.5
+Accuracy for Logistic Regression: 58.6666666667
+Running learner = Logistic Regressionlambda1 2.0 lambda2 4.0
+Accuracy for Logistic Regression: 53.5
+Running learner = Logistic Regressionlambda1 2.0 lambda2 4.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.5 lambda2 0.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.5 lambda2 1.0
+Accuracy for Logistic Regression: 52.5
+Running learner = Logistic Regressionlambda1 2.5 lambda2 1.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.5 lambda2 2.0
+Accuracy for Logistic Regression: 52.8333333333
+Running learner = Logistic Regressionlambda1 2.5 lambda2 2.5
+Accuracy for Logistic Regression: 49.5
+Running learner = Logistic Regressionlambda1 2.5 lambda2 3.0
+Accuracy for Logistic Regression: 55.5
+Running learner = Logistic Regressionlambda1 2.5 lambda2 3.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.5 lambda2 4.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 2.5 lambda2 4.5
+Accuracy for Logistic Regression: 53.3333333333
+Running learner = Logistic Regressionlambda1 3.0 lambda2 0.5
+Accuracy for Logistic Regression: 52.1666666667
+Running learner = Logistic Regressionlambda1 3.0 lambda2 1.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.0 lambda2 1.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.0 lambda2 2.0
+Accuracy for Logistic Regression: 54.3333333333
+Running learner = Logistic Regressionlambda1 3.0 lambda2 2.5
+Accuracy for Logistic Regression: 56.3333333333
+Running learner = Logistic Regressionlambda1 3.0 lambda2 3.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.0 lambda2 3.5
+Accuracy for Logistic Regression: 53.3333333333
+Running learner = Logistic Regressionlambda1 3.0 lambda2 4.0
+Accuracy for Logistic Regression: 58.3333333333
+Running learner = Logistic Regressionlambda1 3.0 lambda2 4.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.5 lambda2 0.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.5 lambda2 1.0
+Accuracy for Logistic Regression: 50.5
+Running learner = Logistic Regressionlambda1 3.5 lambda2 1.5
+Accuracy for Logistic Regression: 56.0
+Running learner = Logistic Regressionlambda1 3.5 lambda2 2.0
+Accuracy for Logistic Regression: 55.3333333333
+Running learner = Logistic Regressionlambda1 3.5 lambda2 2.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.5 lambda2 3.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.5 lambda2 3.5
+Accuracy for Logistic Regression: 55.1666666667
+Running learner = Logistic Regressionlambda1 3.5 lambda2 4.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 3.5 lambda2 4.5
+Accuracy for Logistic Regression: 50.3333333333
+Running learner = Logistic Regressionlambda1 4.0 lambda2 0.5
+Accuracy for Logistic Regression: 58.6666666667
+Running learner = Logistic Regressionlambda1 4.0 lambda2 1.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.0 lambda2 1.5
+Accuracy for Logistic Regression: 52.8333333333
+Running learner = Logistic Regressionlambda1 4.0 lambda2 2.0
+Accuracy for Logistic Regression: 53.5
+Running learner = Logistic Regressionlambda1 4.0 lambda2 2.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.0 lambda2 3.0
+Accuracy for Logistic Regression: 55.1666666667
+Running learner = Logistic Regressionlambda1 4.0 lambda2 3.5
+Accuracy for Logistic Regression: 54.3333333333
+Running learner = Logistic Regressionlambda1 4.0 lambda2 4.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.0 lambda2 4.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.5 lambda2 0.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.5 lambda2 1.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.5 lambda2 1.5
+Accuracy for Logistic Regression: 57.5
+Running learner = Logistic Regressionlambda1 4.5 lambda2 2.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.5 lambda2 2.5
+Accuracy for Logistic Regression: 49.1666666667
+Running learner = Logistic Regressionlambda1 4.5 lambda2 3.0
+Accuracy for Logistic Regression: 50.1666666667
+Running learner = Logistic Regressionlambda1 4.5 lambda2 3.5
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.5 lambda2 4.0
+Accuracy for Logistic Regression: 50.0
+Running learner = Logistic Regressionlambda1 4.5 lambda2 4.5
+Accuracy for Logistic Regression: 53.6666666667
+
+Best Case
+lambda1 = 2.1
+lambda2 = 0.1
+accuracy = 59.6

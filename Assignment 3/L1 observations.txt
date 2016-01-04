@@ -1,0 +1,29 @@
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe F:/ML-Algo/a3barebones2/script_classify.py
+Running on train=2000 and test=600 samples
+Accuracy for Logistic Regressionlambda1 -2.05: 50.3333333333
+Accuracy for Logistic Regressionlambda1 -1.52: 50.3333333333
+Accuracy for Logistic Regressionlambda1 -1.42: 56.1666666667
+Accuracy for Logistic Regressionlambda1 -1.09: 50.1666666667
+Accuracy for Logistic Regressionlambda1 -1.06: 50.1666666667
+Accuracy for Logistic Regressionlambda1 -0.81: 58.3333333333
+Accuracy for Logistic Regressionlambda1 -0.5: 50.3333333333
+Accuracy for Logistic Regressionlambda1 -0.12: 50.1666666667
+Accuracy for Logistic Regressionlambda1 -0.01: 54.5
+Accuracy for Logistic Regressionlambda1 0.17: 51.8333333333
+Accuracy for Logistic Regressionlambda1 0.48: 50.1666666667
+Accuracy for Logistic Regressionlambda1 0.6: 50.3333333333
+Accuracy for Logistic Regressionlambda1 0.86: 52.0
+Accuracy for Logistic Regressionlambda1 0.88: 50.1666666667
+Accuracy for Logistic Regressionlambda1 0.98: 50.6666666667
+Accuracy for Logistic Regressionlambda1 1.01: 50.1666666667
+Accuracy for Logistic Regressionlambda1 1.12: 50.1666666667
+Accuracy for Logistic Regressionlambda1 1.14: 50.1666666667
+Accuracy for Logistic Regressionlambda1 1.26: 51.0
+Accuracy for Logistic Regressionlambda1 1.37: 54.3333333333
+Accuracy for Logistic Regressionlambda1 1.54: 50.1666666667
+Accuracy for Logistic Regressionlambda1 1.63: 50.5
+Accuracy for Logistic Regressionlambda1 1.81: 50.1666666667
+Accuracy for Logistic Regressionlambda1 2.08: 50.1666666667
+Accuracy for Logistic Regressionlambda1 2.17: 50.3333333333
+
+Process finished with exit code 0
