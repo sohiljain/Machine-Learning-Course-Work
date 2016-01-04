@@ -1,0 +1,78 @@
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe D:/Downloads/Kernel2.py
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.001, sigma: 0.001 = 54.0666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.001, sigma: 0.01 = 54.0666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.001, sigma: 0.1 = 61.8666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.001, sigma: 1 = 73.4
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.01, sigma: 0.001 = 54.0666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.01, sigma: 0.01 = 54.0666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.01, sigma: 0.1 = 61.8666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.01, sigma: 1 = 73.2666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.1, sigma: 0.001 = 54.0666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.1, sigma: 0.01 = 54.0666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.1, sigma: 0.1 = 61.8666666667
+Accuracy for Gaus kernel size: 40, regularizer weight: 0.1, sigma: 1 = 67.8
+
+
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe D:/Downloads/Kernel2.py
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.001, sigma: 1 = 73.4666666667
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.001, sigma: 6 = 75.8666666667
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.001, sigma: 11 = 74.9333333333
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.001, sigma: 16 = 73.2666666667
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.001, sigma: 21 = 70.2666666667
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.01, sigma: 1 = 70.9333333333
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.01, sigma: 6 = 75.0
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.01, sigma: 11 = 70.8666666667
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.01, sigma: 16 = 61.2
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.01, sigma: 21 = 55.3333333333
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.1, sigma: 1 = 65.8
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.1, sigma: 6 = 70.0666666667
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.1, sigma: 11 = 55.6666666667
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.1, sigma: 16 = 55.0
+Accuracy for Gaus kernel size: 32, regularizer weight: 0.1, sigma: 21 = 55.0
+Accuracy for Gaus kernel size: 32, regularizer weight: 1, sigma: 1 = 63.4
+Accuracy for Gaus kernel size: 32, regularizer weight: 1, sigma: 6 = 55.3333333333
+Accuracy for Gaus kernel size: 32, regularizer weight: 1, sigma: 11 = 55.0
+Accuracy for Gaus kernel size: 32, regularizer weight: 1, sigma: 16 = 55.0
+Accuracy for Gaus kernel size: 32, regularizer weight: 1, sigma: 21 = 55.0
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.001, sigma: 1 = 73.4666666667
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.001, sigma: 6 = 75.8666666667
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.001, sigma: 11 = 74.9333333333
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.001, sigma: 16 = 73.2666666667
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.001, sigma: 21 = 70.2666666667
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.01, sigma: 1 = 70.9333333333
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.01, sigma: 6 = 75.0
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.01, sigma: 11 = 70.8666666667
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.01, sigma: 16 = 61.2
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.01, sigma: 21 = 55.3333333333
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.1, sigma: 1 = 65.8
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.1, sigma: 6 = 70.0666666667
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.1, sigma: 11 = 55.6666666667
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.1, sigma: 16 = 55.0
+Accuracy for Gaus kernel size: 8, regularizer weight: 0.1, sigma: 21 = 55.0
+Accuracy for Gaus kernel size: 8, regularizer weight: 1, sigma: 1 = 63.4
+Accuracy for Gaus kernel size: 8, regularizer weight: 1, sigma: 6 = 55.3333333333
+Accuracy for Gaus kernel size: 8, regularizer weight: 1, sigma: 11 = 55.0
+Accuracy for Gaus kernel size: 8, regularizer weight: 1, sigma: 16 = 55.0
+Accuracy for Gaus kernel size: 8, regularizer weight: 1, sigma: 21 = 55.0
+
+Process finished with exit code 0
+
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe D:/Downloads/Kernel2.py
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.001, sigma: 1 = 77.4
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.001, sigma: 6 = 79.0
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.001, sigma: 11 = 78.4
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.001, sigma: 16 = 75.6
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.01, sigma: 1 = 74.4
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.01, sigma: 6 = 78.4
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.01, sigma: 11 = 73.0
+Accuracy for Gaus kernel size: 60, regularizer weight: 0.01, sigma: 16 = 62.2
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.001, sigma: 1 = 77.4
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.001, sigma: 6 = 79.0
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.001, sigma: 11 = 78.4
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.001, sigma: 16 = 75.6
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.01, sigma: 1 = 74.4
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.01, sigma: 6 = 78.4
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.01, sigma: 11 = 73.0
+Accuracy for Gaus kernel size: 48, regularizer weight: 0.01, sigma: 16 = 62.2
+
+Process finished with exit code 0

@@ -1,0 +1,83 @@
+C:\Users\sohil\AppData\Local\Enthought\Canopy\User\python.exe D:/Downloads/Kernel2.py
+Accuracy for Poly kernel size: 3, regularizer weight: 0.001 = 73.1333333333
+Accuracy for Lin kernel size: 3, regularizer weight: 0.001 = 74.4
+Accuracy for Gaus kernel size: 3, regularizer weight: 0.001 = 75.4666666667
+
+Accuracy for Poly kernel size: 3, regularizer weight: 0.01 = 73.1333333333
+Accuracy for Lin kernel size: 3, regularizer weight: 0.01 = 74.2666666667
+Accuracy for Gaus kernel size: 3, regularizer weight: 0.01 = 73.0
+
+Accuracy for Poly kernel size: 3, regularizer weight: 0.1 = 73.1333333333
+Accuracy for Lin kernel size: 3, regularizer weight: 0.1 = 74.4666666667
+Accuracy for Gaus kernel size: 3, regularizer weight: 0.1 = 65.6666666667
+
+Accuracy for Poly kernel size: 3, regularizer weight: 1 = 73.2
+Accuracy for Lin kernel size: 3, regularizer weight: 1 = 74.6
+Accuracy for Gaus kernel size: 3, regularizer weight: 1 = 52.6666666667
+
+Accuracy for Poly kernel size: 9, regularizer weight: 0.001 = 73.1333333333
+Accuracy for Lin kernel size: 9, regularizer weight: 0.001 = 74.4
+Accuracy for Gaus kernel size: 9, regularizer weight: 0.001 = 75.4666666667
+
+Accuracy for Poly kernel size: 9, regularizer weight: 0.01 = 73.1333333333
+Accuracy for Lin kernel size: 9, regularizer weight: 0.01 = 74.2666666667
+Accuracy for Gaus kernel size: 9, regularizer weight: 0.01 = 73.0
+
+Accuracy for Poly kernel size: 9, regularizer weight: 0.1 = 73.1333333333
+Accuracy for Lin kernel size: 9, regularizer weight: 0.1 = 74.4666666667
+Accuracy for Gaus kernel size: 9, regularizer weight: 0.1 = 65.6666666667
+
+Accuracy for Poly kernel size: 9, regularizer weight: 1 = 73.2
+Accuracy for Lin kernel size: 9, regularizer weight: 1 = 74.6
+Accuracy for Gaus kernel size: 9, regularizer weight: 1 = 52.6666666667
+
+Accuracy for Poly kernel size: 15, regularizer weight: 0.001 = 73.1333333333
+Accuracy for Lin kernel size: 15, regularizer weight: 0.001 = 74.4
+Accuracy for Gaus kernel size: 15, regularizer weight: 0.001 = 75.4666666667
+
+Accuracy for Poly kernel size: 15, regularizer weight: 0.01 = 73.1333333333
+Accuracy for Lin kernel size: 15, regularizer weight: 0.01 = 74.2666666667
+Accuracy for Gaus kernel size: 15, regularizer weight: 0.01 = 73.0
+
+Accuracy for Poly kernel size: 15, regularizer weight: 0.1 = 73.1333333333
+Accuracy for Lin kernel size: 15, regularizer weight: 0.1 = 74.4666666667
+Accuracy for Gaus kernel size: 15, regularizer weight: 0.1 = 65.6666666667
+
+Accuracy for Poly kernel size: 15, regularizer weight: 1 = 73.2
+Accuracy for Lin kernel size: 15, regularizer weight: 1 = 74.6
+Accuracy for Gaus kernel size: 15, regularizer weight: 1 = 52.6666666667
+
+Accuracy for Poly kernel size: 21, regularizer weight: 0.001 = 73.1333333333
+Accuracy for Lin kernel size: 21, regularizer weight: 0.001 = 74.4
+Accuracy for Gaus kernel size: 21, regularizer weight: 0.001 = 75.4666666667
+
+Accuracy for Poly kernel size: 21, regularizer weight: 0.01 = 73.1333333333
+Accuracy for Lin kernel size: 21, regularizer weight: 0.01 = 74.2666666667
+Accuracy for Gaus kernel size: 21, regularizer weight: 0.01 = 73.0
+
+Accuracy for Poly kernel size: 21, regularizer weight: 0.1 = 73.1333333333
+Accuracy for Lin kernel size: 21, regularizer weight: 0.1 = 74.4666666667
+Accuracy for Gaus kernel size: 21, regularizer weight: 0.1 = 65.6666666667
+
+Accuracy for Poly kernel size: 21, regularizer weight: 1 = 73.2
+Accuracy for Lin kernel size: 21, regularizer weight: 1 = 74.6
+Accuracy for Gaus kernel size: 21, regularizer weight: 1 = 52.6666666667
+
+Accuracy for Poly kernel size: 27, regularizer weight: 0.001 = 73.1333333333
+Accuracy for Lin kernel size: 27, regularizer weight: 0.001 = 74.4
+Accuracy for Gaus kernel size: 27, regularizer weight: 0.001 = 75.4666666667
+
+Accuracy for Poly kernel size: 27, regularizer weight: 0.01 = 73.1333333333
+Accuracy for Lin kernel size: 27, regularizer weight: 0.01 = 74.2666666667
+Accuracy for Gaus kernel size: 27, regularizer weight: 0.01 = 73.0
+
+Accuracy for Poly kernel size: 27, regularizer weight: 0.1 = 73.1333333333
+Accuracy for Lin kernel size: 27, regularizer weight: 0.1 = 74.4666666667
+Accuracy for Gaus kernel size: 27, regularizer weight: 0.1 = 65.6666666667
+
+Accuracy for Poly kernel size: 27, regularizer weight: 1 = 73.2
+Accuracy for Lin kernel size: 27, regularizer weight: 1 = 74.6
+Accuracy for Gaus kernel size: 27, regularizer weight: 1 = 52.6666666667
+
+
+Process finished with exit code 0
